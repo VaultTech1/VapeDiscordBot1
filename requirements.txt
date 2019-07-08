@@ -1,0 +1,6 @@
+discord
+asyncio
+random
+tasks
+cycle
+pip
