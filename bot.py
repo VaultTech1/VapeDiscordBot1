@@ -59,4 +59,4 @@ async def ban(ctx, member : discord.Member, *, reason=None):
 async def kick(ctx, member : discord.Member, *, reason=None): 
     await member.kick(reason=reason)
 
-client.run('NTk3NTA3MDUxMzI5MDI4MTU3.XSJF3g.IJwK2jo1s7HabCPFxv-3GqjJaTA')
+client.run('BOT_TOKEN')
